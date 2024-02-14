@@ -1,0 +1,4 @@
+0;Paine;Panificatie;12.12.2022;
+0;banane;Fructe;15.06.2024;
+0;paine;Panificatie;13.05.2024;
+0;asda;Mezeluri;10.02.2023;
